@@ -170,16 +170,19 @@ body.lb-disable-scrolling {
   float: left;
   text-align: left;
   line-height: 1.1em;
+  font-family: Sans-Serif;
 }
 
 .lb-data .lb-caption {
   font-size: 13px;
   font-weight: bold;
   line-height: 1em;
+  font-family: Sans-Serif;
 }
 
 .lb-data .lb-caption a {
   color: #4ae;
+  font-family: Sans-Serif;
 }
 
 .lb-data .lb-number {
